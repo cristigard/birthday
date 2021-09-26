@@ -1,2 +1,2 @@
 # birthday
-Dictionary to add or look for a birthday friend
+Dictionary to add or search a friend's birthday
